@@ -6,7 +6,7 @@
 
 Status: Complete
 
-0. Copy folders all folders "Modules_Macro", "Geometry", "Simulation" and file "Main.java" into your simulation folder
+0. Copy folders all folders "Modules_Macro", "Geometry", "Simulation" and file "Main.java" into your simulation folder. Aggregate BlackSide.png, BlackTop.png, fst_black.png, fst_white.png, lineBlack.png and Fan.csv into a folder named "Library" and put it into "Modules_Macro" folder.
 
 1. Adjust ride heights and then run solidworks Macro for full car : "Half Car - CAD_CFD_Preparation.swp"
 
